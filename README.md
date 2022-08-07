@@ -4,8 +4,8 @@
 
 - 🌱 Actualmente aprendo y estudio el mundo del Web Service.
 - 👀 Pregúntame sobre: redes sociales, ​​tecnología, memes. 
-
-**Languages and Tools:**
+--
+#### Languages and Tools:
 
 <p align="center">
   <div align="center">
@@ -22,3 +22,14 @@
     <code><img height="40" src="https://user-images.githubusercontent.com/70911022/183310757-f3ca6827-6417-4a37-8129-b6aff147e29f.png"></code> 
     <code><img height="40" src="https://user-images.githubusercontent.com/70911022/183310766-81f7919d-f085-4a42-85c5-6e85c61ab74c.png"></code> 
   </div>
+  
+
+<div align="center">
+  <h4>Encuentrame en la web:</h4>
+  
+   [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamkarla_m) 
+   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karla-pazan-mera26/)
+
+  ![](https://komarev.com/ghpvc/?username=your-github-KarlyPM&color=dc143c)
+</div>
+
