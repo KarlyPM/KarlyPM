@@ -2,7 +2,7 @@
 
 ¡Soy Karla! Una estudiante de Ingeniería en Sistemas, apasionada por el desarrollo de software, comprometida con crear tecnología para elevar a las personas.
 
-- 🌱 Actualmente aprendo y estudio el mundo del Web Service.
+- 🌱 Actualmente aprendo y estudio el mundo de las aplicaciones moviles.
 - 👀 Pregúntame sobre: redes sociales, tecnología, musica, memes. 
 
 <div align="center">
