@@ -8,7 +8,6 @@
 <div align="center">
   <h4>ENCUENTRAME EN LA WEB:</h4>
   
-   [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamkarla_m) 
    [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karla-pazan-mera26/)
 
   <!--  ![](https://komarev.com/ghpvc/?username=your-github-KarlyPM&color=dc143c) -->
